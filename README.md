@@ -2,7 +2,8 @@
 
 **Adjustments**
 
-edit semaphore = 100 (main.py) variable to set how many concurrent connections.
+edit semaphore = 100 variable (in main.py) to set how many concurrent connections.
+
 ---
 **Requirements**
 
