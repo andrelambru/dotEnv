@@ -1,5 +1,10 @@
 # dotEnv
 
+**THIS CODE IS FOR EDUCATIONAL PURPOSE ONLY!**
+
+**I AM NOT RESPONSABLE FOR ANY BAD USE.**
+
+---
 **Adjustments**
 
 edit semaphore = 100 variable (in main.py) to set how many concurrent connections.
@@ -8,9 +13,9 @@ edit semaphore = 100 variable (in main.py) to set how many concurrent connection
 **Requirements**
 
 Install requirements with pip:
-1. pip install httpx
-2. pip install colorama
-3. (OPTIONAL) if python version < 3.6 pip install shutil
+1. `pip install httpx`
+2. `pip install colorama`
+3. (OPTIONAL) if python version < 3.6 `pip install shutil`
 ---
 **How to**
 
