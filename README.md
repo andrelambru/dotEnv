@@ -8,6 +8,7 @@
 **Adjustments**
 
 edit semaphore = 100 variable (in main.py) to set how many concurrent connections.
+I suggest to use max 10 threads (this will create 10 workers that send async requests with the setted semaphore)
 
 ---
 **Requirements**
